@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-image:url(background.gif);
+    background-size: cover;
+}
+
+img {
+   width: 150px;
+   height: auto;
+   border-radius: 50%;
+   display: block;
+   margin: 10px auto; 
+}
+
+#header {
+    color: rgb(199, 197, 218);
+   
+    font-family: "Henny Penny", system-ui;
+}
+
+h2{
+    color: rgb(199, 197, 218);
+    
+    font-family: "Henny Penny", system-ui;
+}
+
+p {
+    color: rgb(228, 166, 52);
+   
+    font-family: "Henny Penny", system-ui;
+}
+ul {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    color: rgb(228, 166, 52);
+    font-family: "Creepster", system-ui;
+  }
+button {
+    margin: 20px;
+    padding: 5px;
+    font-family: "Henny Penny", system-ui;
+    background-color: rgb(39, 38, 38);
+    color: rgb(199, 197, 218);;
+}
